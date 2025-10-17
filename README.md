@@ -3,6 +3,8 @@
 ![image alt](https://github.com/brianmateli/Task-3/blob/main/Orders%20each%20customer%20has%20made%20in%20descending%20order.png)
 ## Orders shipped to Germany
 ![image alt](https://github.com/brianmateli/Task-3/blob/main/Orders%20shipped%20to%20Germany.png)
-![image alt]
+## Products belonging to each category
+![image alt](https://github.com/brianmateli/Task-3/blob/main/Products%20belonging%20in%20each%20category.png)
+
 ![image alt]
 ![image alt]
